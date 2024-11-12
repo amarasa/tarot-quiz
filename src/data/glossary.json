@@ -1,0 +1,22 @@
+{
+	"elements": {
+		"Earth": "Represents stability, practicality, and groundedness.",
+		"Water": "Symbolizes emotions, intuition, and adaptability.",
+		"Fire": "Represents energy, passion, and transformation.",
+		"Air": "Symbolizes intellect, communication, and social connections."
+	},
+	"astrological_signs": {
+		"Aries": "The leader of the zodiac, known for its boldness and ambition.",
+		"Taurus": "Representing reliability, patience, and a love for comfort.",
+		"Gemini": "Associated with adaptability, curiosity, and sociability.",
+		"Cancer": "Known for its nurturing, protective, and intuitive nature.",
+		"Leo": "Symbolizes creativity, confidence, and warmth.",
+		"Virgo": "Represents precision, practicality, and dedication to service.",
+		"Libra": "Known for balance, diplomacy, and a love for harmony.",
+		"Scorpio": "Associated with depth, intensity, and transformation.",
+		"Sagittarius": "Represents adventure, optimism, and a quest for knowledge.",
+		"Capricorn": "Symbolizes discipline, responsibility, and ambition.",
+		"Aquarius": "Known for innovation, independence, and humanitarianism.",
+		"Pisces": "Associated with compassion, imagination, and spirituality."
+	}
+}
